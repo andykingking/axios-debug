@@ -1,6 +1,6 @@
 {
   "name": "axios-debug",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prints out axios requests and responses",
   "main": "lib/index.js",
   "repository": {
