@@ -1,5 +1,7 @@
 # Axios Debug
 
+[![npm version](https://badge.fury.io/js/axios-debug.svg)](https://badge.fury.io/js/axios-debug)
+
 A convenient way to view the requests and responses when using [axios](https://github.com/mzabriskie/axios).
 
 ## Installation
