@@ -3,6 +3,16 @@
   "version": "0.0.1",
   "description": "Prints out axios requests and responses",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:andykingking/axios-debug.git"
+  },
+  "bugs": "https://github.com/andykingking/axios-debug/issues",
+  "keywords": [
+    "axios",
+    "debug"
+  ],
+  "homepage": "https://github.com/andykingking/axios-debug",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
